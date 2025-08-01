@@ -9,6 +9,7 @@
 *   Fields of interest: **DS** and **ML**
 *   Have an experience to work as **full-stack developer**
 *   CEO and PM at [ParadiseCrane](https://github.com/ParadiseCrane)
+*   Founder of [Crogs](https://github.com/crogs-foundation)
 *   Like structured and descriptive code
 
 ---
