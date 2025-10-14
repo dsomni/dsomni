@@ -75,11 +75,5 @@ I enjoy building structured, maintainable, and scalable systems — from ML pipe
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="https://t.me/dsomni" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:d.beresnev.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- **Telegram**: [@dsomni](https://t.me/dsomni)
+- **E-mail**: [d.beresnev.work@gmail.com](mailto:d.beresnev.work@gmail.com)
